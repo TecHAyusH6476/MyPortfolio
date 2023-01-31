@@ -1,22 +1,20 @@
 <h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="https://github.com/ayush/developer-portfolio/blob/master/picture.PNG"></img>
   </kbd>
 </p>
 
-## To view a live example, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
+## To view a live example, **[click here](https://developer-portfolio-ayush.vercel.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/1hanzla100/developer-portfolio/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/ayush/developer-portfolio/issues).
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
-
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/ayush/developer-portfolio/pulls).
 
 ## Sections
 
@@ -45,15 +43,19 @@ git@2.17.1 or higher
 ## How To Use
 
 1. Fork this repoistory and clone it to your local machine.
+
 ```bash
 $ git clone https://github.com/<your-username>/developer-portfolio.git
-``` 
+```
+
 2. Go into the repository
+
 ```bash
 $ cd developer-portfolio
 ```
 
 3. Install dependencies
+
 ```bash
 $ yarn
 ```
@@ -61,6 +63,7 @@ $ yarn
 4. Edit `portfolio.js`
 
 5. Start's development server
+
 ```bash
 $ yarn dev
 ```
@@ -78,37 +81,38 @@ For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` functi
 
 ## Technologies Used
 
--   [Next.js](https://nextjs.org/)
--   [axios](https://www.npmjs.com/package/axios)
--   [reactstrap](https://reactstrap.github.io/)
--   [react-reveal](https://www.react-reveal.com/)
--   [react-lottie](https://www.npmjs.com/package/react-lottie)
--   [react-easy-emoji](https://github.com/appfigures/react-easy-emoji)
--   [react-headroom](https://github.com/KyleAMathews/react-headroom)
--   [color-thief](https://github.com/lokesh/color-thief)
+- [Next.js](https://nextjs.org/)
+- [axios](https://www.npmjs.com/package/axios)
+- [reactstrap](https://reactstrap.github.io/)
+- [react-reveal](https://www.react-reveal.com/)
+- [react-lottie](https://www.npmjs.com/package/react-lottie)
+- [react-easy-emoji](https://github.com/appfigures/react-easy-emoji)
+- [react-headroom](https://github.com/KyleAMathews/react-headroom)
+- [color-thief](https://github.com/lokesh/color-thief)
 
 ## Illustrations
 
--   [Lottie File Source](https://lottiefiles.com)
+- [Lottie File Source](https://lottiefiles.com)
 
 ## Icons
+
 Iconify Icons are used in skill section. You can find all the icons here: [Iconify](https://icon-sets.iconify.design/).
 
 ## For the Future
 
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/1hanzla100/developer-portfolio/pulls).
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/ayush/developer-portfolio/pulls).
 
--   Enable Dark Mode
+- Enable Dark Mode
 
--   Add More Sections
+- Add More Sections
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Ayush Singh**
 
--   Website: https://hanzla.netlify.app
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+- Website: https://ayush.netlify.app
+- Github: [@ayush](https://github.com/ayush)
+- LinkedIn: [@ayush](https://linkedin.com/in/ayush)
 
 ## Show your support
 
